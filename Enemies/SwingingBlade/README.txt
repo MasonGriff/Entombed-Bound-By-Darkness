@@ -1,0 +1,1 @@
+Swinging Blade was originally code written for a bat enemy but was rewritten to be for a swinging pendulum blade, without the script name changing.
